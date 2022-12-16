@@ -1,0 +1,92 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "price": 7500000,
+      "imageUrl": "https://www.remax-kenya.co.ke/AreaGuideImages/106/2503/21535/7840763/5256-one-house-mydeals.jpg ",
+      "agent": "HYDRATECH",
+      "description": "This home can only be described as palatial with well-manicured gardens, and clean well maintained streets courtesy of Runda Water, a local company that provides services to the residents.",
+      "deposit": 7500000
+    },
+    {
+      "id": 2,
+      "price": 18000000,
+      "imageUrl": "https://propscout.co.ke/storage/properties/files/gated-communities/webp/karen-5-bedroom-house-in-a-gated-community-for-rent-mljlo.webp",
+      "agent": "HYDRATECH",
+      "description": "6 Bedroom house for sale located in Loresho,Westlands,Nairobi.",
+      "deposit": 18000000
+    },
+    {
+      "id": 3,
+      "price": 16500000,
+      "imageUrl": "https://images.kenyapropertycentre.com/properties/images/7386/05f45fd89aa7c1-ikweta-house-detached-duplexes-for-sale-loresho-westlands-nairobi.jpg",
+      "agent": "HYDRATECH",
+      "description": "5 Bedroom house for sale in Kibo lane in Karen.This house is convenient, affordable, homely environment in Nairobi, suitable for you and your family. The entire house and its 6 Rooms are available for occupants.",
+      "deposit": 165000000
+    },
+    {
+      "id": 4,
+      "price": 20500000,
+      "imageUrl": "https://content.knightfrank.com/property/hub2265796/images/8eb0a53d-42db-41d8-908f-7e117a81bdbb-41.jpg",
+      "agent": "Knight Frank",
+      "description": "5 bedroom family house in an open gated community located in Karen with amazing views from gardens,all ensuite, power back up, gym , swimming pool, secure, family room, washing area, pantry, balconies.",
+      "deposit": 20500000
+    },
+    {
+      "id": 5,
+      "price": 10500000,
+      "imageUrl": "https://i0.wp.com/shiftersmovers.com/wp-content/uploads/2021/03/Expensive-estates-in-Nairobi-Muthaiga.jpeg?resize=812%2C501&ssl=1",
+      "agent": "Shifters and Movers",
+      "description": "6 bedroom house located in Muthaiga.Estate has well-manicured walkways,best lawns surrounding homes,hotels and schools and estate is 7 km from the city center. ",
+      "deposit": 105000000
+    },
+    {
+      "id": 6,
+      "price": 50000000,
+      "imageUrl": "https://imganuncios.mitula.net/4bdrm_mansion_in_garden_estate_nairobi_central_for_sale_3910121670684508560.jpg  ",
+      "agent": "HYDRATECH",
+      "description": "With unmatched convenience,this is a home in the city.Located off james Gichuru road ,just2 mins drive from lavington shopping center,20min from the Nairobi CBD.This is a plush high class neighborhood with a serene,homely environment,a supermarket,many eateries,educational institutions,healthcare facilities",
+      "deposit": 50000000
+    },
+    {
+      "id": 7,
+      "price": 50000000,
+      "imageUrl": "https://images.kenyapropertycentre.com/properties/images/6498/05f4258c95a2b3-an-exclusive-5-bedroom-villa-for-sale-runda-westlands-nairobi.jpg",
+      "agent": "Shifters and Movers",
+      "description": "Situated at the edge of Runda estate, in Kiambu County,this award winning development offers the ultimate lifestyle choice.",
+      "deposit": 50000000
+    },
+    {
+      "id": 8,
+      "price": 65250000,
+      "imageUrl": "https://loozap.com/storage/files/ke/lo_06-01-2019/thumb-816x460-19758da4f05ad8caff84cf9.desktop-gallery-large.jpg",
+      "agent": "Downhill Limited",
+      "description": "With unmatched convenience,this is a home in the city.Located off james Gichuru road ,just2 mins drive from lavington shopping center,20min from the Nairobi CBD.This is a plush high class neighborhood with a serene,homely environment,a supermarket,many eateries,educational institutions,healthcare facilities",
+      "deposit": 65250000
+    },
+    {
+      "id": 9,
+      "price": 90000000,
+      "imageUrl": "https://images.kenyapropertycentre.com/properties/images/9020/060ec4204e27e5-runda-4-bedroom-house-for-sale-runda-westlands-nairobi.jpg",
+      "agent": "HYDRATECH",
+      "description": "Set on expensive aesthetically beautifull compound is this 4-bedroom house. Located in the tranquil of Runda.",
+      "deposit": 90000000
+    },
+    {
+      "id": 10,
+      "price": 150000000,
+      "imageUrl": "https://nnmedia.nation.africa/uploads/2017/04/dnraid0804vg.jpg",
+      "agent": "HYDRATECH",
+      "description": "With unmatched convenience,this is a 6 bedroom home in the city.Located in Lavingtone, Nairobi",
+      "deposit": 150000000
+    },
+    {
+      "id": 11,
+      "price": 90000000,
+      "imageUrl": "https://www.gardenhouseskenya.com/wp-content/uploads/2021/12/Garden-Houses-Kenya-Nairobi-Garden-House-Off-Thika-Road-15-minitues-from-Nairobi-CBD-www.gardenhouseskenya.com-17n.jpg",
+      "agent": "HYDRATECH",
+      "description": "Nairobi Garden House located in Thome Estate off Thika super highway, just 20 minutes from Nairobi Central Business District is the place for accommodation while in Nairobi",
+      "deposit": 90000000
+    }
+  ]
+}

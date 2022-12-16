@@ -1,0 +1,77 @@
+body {
+    padding: 0px;
+    margin: 50px 0px;
+    background-color: blanchedalmond;
+    height: 300vh;
+    text-align: center
+}
+
+#upload_form {
+    box-shadow: 0 4px 8px 0 rgba(red, green, blue, alpha);
+    transition: 0.3s;
+    width: max-content;
+    margin-bottom: 50px;
+    justify-content: center;
+    display: inline;
+    color: darkred;
+
+}
+
+.container:hover {
+    box-shadow: 0 8px 16px 0 rgba(red, green, blue, alpha);
+}
+
+#more {
+    display: none;
+}
+
+.footer {
+    background-color:blue;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#aboutUs {
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+#contacts {
+    color: red;
+    font-size: x-large;
+}
+
+#btn {
+    background-color: aquamarine;
+    border-radius: 12px;
+}
+
+#phone {
+    color: black;
+    font-size: larger;
+}
+
+#email {
+    color: black;
+    font-size: larger;
+}
+
+#header {
+    font-size: larger;
+}
+
+
+.card {
+    margin-bottom: 50px;
+    margin-top: 0%;
+}
+
+#myBtn {
+    margin-bottom: 50px;
+    font-size: larger;
+    background-color: aliceblue;
+    border-radius: 7px;
+}

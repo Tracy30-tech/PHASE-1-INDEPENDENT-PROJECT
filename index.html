@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HYDRATECH</title>
+    <script defer src="js/index.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header id="header">
+        <h1>HYDRATECH</h1>
+    </header>
+
+    <div id="background">
+        <p><a href="#aboutUs">About Us</a></p>
+        <p><a href="#contacts">Contacts</a></p>
+        <p><a href="#address">Plans/Designs</a></p>
+    </div>
+
+    <div class="container">
+        <form id="upload_form">
+            <label for="price"> Price: </label>
+            <input type="number" name="price" id="price" />
+            <label for="image">Image URL: </label>
+            <input type="text" name="imageUrl" id="image_url" />
+            <label for="agent">Agent: </label>
+            <input type="text" name="agent" id="agent" />
+            <label for="description">Description: </label>
+            <textarea id="description" name="description" id="description"></textarea>   
+            <button type="submit" id="btn">Upload Listing</button>
+            <!-- <label for="deposit">Deposited: </label>
+            <input type="number" name="deposit" id="deposit" /> -->
+            
+      </form>
+      <ul id="listings" class="cards">
+        <!-- < listings here> -->
+      </ul> 
+    </div>
+
+    <div>
+        <h2 id="aboutUs">Profile</h2>
+      
+    <p>Hydratech develops, builds, and insures properties for clients. The company believes that the easiest way to be
+        successful is to help others succeed. It has a loyal team of consultants, contractors, suppliers, bankers, and
+        employees. Homes from Hydratech are reasonably priced and have beautiful scenic views and privacy.is dedi<span
+            id="dots">...</span><span id="more">cated to converting the construction process into a pleasurable
+            experience. Their highly skilled team guarantees exceptional quality at every stage of resource acquisition,
+            design, and construction. Hydratech mission is to enrich the quality of people's lives. The company sells
+            prime
+            real estate property countrywide at unbelievably affordable rates and discounts. Hydratech acquire land in
+            bulk
+            and acquires title deeds for each piece a client buys.
+        </span></p>
+    <button onclick="myFunction()" id="myBtn">Continue</button>
+     
+    </div>
+    
+    <section>
+    <div class="footer">       
+        <div id="contacts">Contacts</div>
+           <div>
+             <p id="phone">Phone Number: </p>
+             <p>0797119374</p>
+           </div>
+           <div>
+            <p id="email">Email Adress:</p>
+            <p>hydratech.re@hydratech.co.ke</p>
+           </div>
+        </div>
+    </div> 
+    </section>
+
+</body>
+</html>
